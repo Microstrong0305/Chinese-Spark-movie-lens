@@ -16,7 +16,7 @@
 
 本教程的第二部分是解释如何使用Python/Flask在Spark模型之上构建Web服务的部分。 通过这样做，您将能够开发完整的在线电影推荐服务。
 
-## Part 1：构建推荐系统
+## Part 1：[构建推荐系统](building-recommender.ipynb)
 
 ## Part 2：构建和运行web服务
 
