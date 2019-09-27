@@ -23,5 +23,5 @@
 ## 快速开始
 
 ## 相关内容
-- [Win10的Spark + Python Flask环境搭建](https://mp.weixin.qq.com/s?__biz=MzI5MzIwNDI1MQ==&mid=2650120932&idx=5&sn=fa924c8677411661a31df945b330c028&chksm=f474ba90c303338678dcd26edd5707d667c4bbe4a93b1f4e33591892cd858fd2da8db988be38&mpshare=1&scene=23&srcid=0117k0pBqKT5ucoXacbBHMfW&client=tim&ADUIN=278793087&ADSESSION=1517886579&ADTAG=CLIENT.QQ.5537_.0&ADPUBNO=26752#rd)
-- 【1】 在线图书推荐系统的实现含源码（协同过滤）[知乎](https://zhuanlan.zhihu.com/p/31473161) | [GitHub](https://github.com/XuefengHuang/RecommendationSystem)
+- 【1】[Win10的Spark + Python Flask环境搭建](https://mp.weixin.qq.com/s?__biz=MzI5MzIwNDI1MQ==&mid=2650120932&idx=5&sn=fa924c8677411661a31df945b330c028&chksm=f474ba90c303338678dcd26edd5707d667c4bbe4a93b1f4e33591892cd858fd2da8db988be38&mpshare=1&scene=23&srcid=0117k0pBqKT5ucoXacbBHMfW&client=tim&ADUIN=278793087&ADSESSION=1517886579&ADTAG=CLIENT.QQ.5537_.0&ADPUBNO=26752#rd)
+- 【2】 在线图书推荐系统的实现含源码（协同过滤）[知乎](https://zhuanlan.zhihu.com/p/31473161) | [GitHub](https://github.com/XuefengHuang/RecommendationSystem)
