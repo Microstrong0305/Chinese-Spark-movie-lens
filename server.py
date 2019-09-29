@@ -25,7 +25,7 @@ def run_server(app):
         'engine.autoreload.on': True,
         'log.screen': True,
         'server.socket_port': 5432,
-        'server.socket_host': '0.0.0.0'
+        'server.socket_host': '127.0.0.1'
     })
  
     # Start the CherryPy WSGI web server
