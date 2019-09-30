@@ -2,7 +2,7 @@
 基于Spark、Python Flask和MovieLens dataset的在线电影推荐系统
 
 ## 项目简介
-- 该电影推荐系统库翻译自：https://github.com/jadianes/spark-movie-lens
+- 该电影推荐系统库翻译自：https://github.com/jadianes/spark-movie-lens | [对应的blog](https://www.codementor.io/jadianes/building-a-web-service-with-apache-spark-flask-example-app-part2-du1083854)
 - 适合初学者学习如何搭建一个推荐系统
 
 ---
