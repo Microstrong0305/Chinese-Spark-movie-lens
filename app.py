@@ -14,7 +14,7 @@ from flask import Flask, request
 def top_ratings(user_id, count):
     logger.debug("User %s TOP ratings requested", user_id)
     top_ratings = recommendation_engine.get_top_ratings(user_id,count)
-    return json.dumps(top_ratings)
+    return json.dumps(top_ratings, ensure_ascii=False)
  
 @main.route("/<int:user_id>/ratings/<int:movie_id>", methods=["GET"])
 def movie_ratings(user_id, movie_id):
