@@ -33,4 +33,4 @@ D:\spark\spark-2.3.3-bin-hadoop2.7\bin\spark-submit server.py
 - 【3】 [Spark中ALS的实现原理](https://github.com/endymecy/spark-ml-source-analysis/blob/master/%E6%8E%A8%E8%8D%90/ALS.md)
 
 ## 关注微信公众号交流
-![微信公众号]()
+![微信公众号](https://github.com/Microstrong0305/Chinese-Spark-movie-lens/blob/master/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7.jpg)
